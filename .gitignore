@@ -1,0 +1,14 @@
+# Compiled programs
+*.exe
+*.out
+*.o
+
+# Object and temporary files
+*.tmp
+*.log
+
+# IDE files
+.vscode/
+
+# Executables
+a.out
